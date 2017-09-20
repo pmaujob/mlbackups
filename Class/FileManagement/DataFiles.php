@@ -238,14 +238,14 @@ class DataFiles {
                         if ($fileUsed) {
 
                             $rowsUsed = array();
-                            //$charsToReplace = array("/home/bk102//");
+                            $charsToReplace = array("\n");
 
                             while (!feof($fileUsed)) {
 
                                 $str = fgets($fileUsed);
 
                                 if (strlen(trim($str)) > 0) {
-                                    $aux = array(stristr($str, '/home/'.$user.'//', true), stristr($str,'/home/'.$user.'//', false));
+                                    $aux = array(stristr($str, '/', true), str_replace($charsToReplace,'',stristr($str,'/', false)));
                                     $rowsUsed[] = $aux;
                                 }
                             }

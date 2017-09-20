@@ -52,10 +52,9 @@ class CLoadDataFiles {
 
     public function recordData($area, $responsable, $ip, $account, $dir, $lastRecord, $hash, $lastIp, $directories, $deviceDirectorie, $findInfo, $findDirConf, $findUsed) {
 
-        echo "asdasd" . var_dump($this->getUsersToJson()) . "<br>";
-        echo (int) $findInfo . "info";
-        echo (int) $findDirConf . "dir";
-        echo (int) $findUsed . "used";
+        echo (int) $findInfo . "info<br>";
+        echo (int) $findDirConf . "dir<br>";
+        echo (int) $findUsed . "used<br>";
         echo var_dump($area) . "_1<br>";
         echo var_dump($responsable) . "_2<br>";
         echo var_dump($ip) . "_3<br>";
@@ -79,9 +78,9 @@ class CLoadDataFiles {
             $aux = array("user" => $row);
             $usersJson[] = $aux;
             
-            echo $row;
-            echo "array: " . var_dump($dataFiles->getDirectories());
-            $this->recordData($dataFiles->getFindInfo(), $dataFiles->getFindDirConf(), $dataFiles->getFindUsed(), $dataFiles->getArea(), $dataFiles->getResponsable(), $dataFiles->getIpsync(), $dataFiles->getAccount(), $dataFiles->getDirectory(), $dataFiles->getLastRecord(), $dataFiles->getHash(), $dataFiles->getLastIp(), $dataFiles->getDirectoriesJson(), $dataFiles->getDirConf());
+            echo $row."<br>";
+
+            $this->recordData($dataFiles->getArea(), $dataFiles->getResponsable(), $dataFiles->getIpsync(), $dataFiles->getAccount(), $dataFiles->getDirectory(), $dataFiles->getLastRecord(), $dataFiles->getHash(), $dataFiles->getLastIp(), $dataFiles->getDirectoriesJson(), $dataFiles->getDirConf(), $dataFiles->getFindInfo(), $dataFiles->getFindDirConf(), $dataFiles->getFindUsed());
         }
         
         $this->setUsersToJson(ConvertFormats::convertToJsonItems($usersJson));
