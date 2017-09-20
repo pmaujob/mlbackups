@@ -1,14 +1,19 @@
 <?php
+
+@session_start();
+
+$pRoot = $_SESSION['pRoot'];
 $userId = $_POST['userId'];
 
-require_once '../../Models/FileManagement/MConsultUsers.php';
+require_once $pRoot . '/Models/FileManagement/MConsultUsers.php';
 
 $user = MConsultUsers::getEeudatos($userId);
 $dirs = MConsultUsers::getDirectorios($userId);
+
 ?>
 <table>
     <?php
-    foreach($user as $row) {
+    foreach ($user as $row) {
         ?>
         <tr>
             <th>
@@ -56,11 +61,11 @@ $dirs = MConsultUsers::getDirectorios($userId);
 </table>
 <span>Directorios:</span>
 <ul>
-<?php
-foreach($dirs as $dir){
-    ?>
-    <li><?php echo $dir[1]; ?></li>
     <?php
-}
-?>
+    foreach ($dirs as $dir) {
+        ?>
+        <li><?php echo $dir[1]; ?></li>
+        <?php
+    }
+    ?>
 </ul>

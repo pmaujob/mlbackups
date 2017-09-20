@@ -1,11 +1,13 @@
 <?php
 @session_start();
-$_SESSION['pRootHtml'] = 'http://' . $_SERVER['SERVER_NAME'] . '/Backups';
+
+$pRoot = $_SESSION['pRoot'];
 $pRootHtml = $_SESSION['pRootHtml'];
 
-require_once '../../Models/FileManagement/MConsultUsers.php';
+require_once $pRoot . '/Models/FileManagement/MConsultUsers.php';
 
 $searchValue = $_POST['searchValue'];
+
 $arrayColors = array(
     "#F44336",
     "#2196F3",
