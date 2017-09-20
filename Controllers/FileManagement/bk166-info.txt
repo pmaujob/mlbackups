@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Sandra Rosero
+ipsync=172.16.18.12
+cuenta=bk166
+home=/home2/bk166
+ultimoreg=2017-09-02
+hash=92c959d3490fbce74a027ebd2050ec25
+ultimaip=

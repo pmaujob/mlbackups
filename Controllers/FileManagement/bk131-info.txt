@@ -1,0 +1,8 @@
+AREA=O y M
+RESPONSABLE=Gimena Torres
+ipsync=172.16.18.12
+cuenta=bk131
+home=/home2/bk131
+ultimoreg=2017-09-01
+hash=ba0e5a73f4d95b00b57cb6b4d708592b
+ultimaip=

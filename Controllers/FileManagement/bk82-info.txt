@@ -1,0 +1,8 @@
+AREA=Gerente Mocoa
+RESPONSABLE=Efrain Aguirre
+ipsync=172.16.18.12
+cuenta=bk82
+home=/home/bk82
+ultimoreg=2017-09-02
+hash=17b7a0ac91c4c7742800607cdc7ffc91
+ultimaip=

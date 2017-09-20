@@ -1,0 +1,8 @@
+AREA=O y M
+RESPONSABLE=Estefanía Patiño
+ipsync=172.16.18.12
+cuenta=bk132
+home=/home2/bk132
+ultimoreg=2017-08-31
+hash=5deee99a90dbef2f2e0bccfbcf7ea4a4
+ultimaip=172.16.7.12

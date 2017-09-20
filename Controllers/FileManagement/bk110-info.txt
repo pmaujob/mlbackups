@@ -1,0 +1,8 @@
+AREA=Programación
+RESPONSABLE=Jonnathan Ramírez
+ipsync=172.16.18.12
+cuenta=bk110
+home=/home2/bk110
+ultimoreg=2017-09-02
+hash=be907295e86f6ac3966382c573a99785
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Luz Cuatin
+ipsync=172.16.18.12
+cuenta=bk111
+home=/home2/bk111
+ultimoreg=2017-09-02
+hash=d65d1485a3b00cf25eeb49bdc8784183
+ultimaip=

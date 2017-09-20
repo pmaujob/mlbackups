@@ -1,0 +1,8 @@
+AREA=Gerente Campo Alegre
+RESPONSABLE=Humberto Zambrano
+ipsync=172.16.18.12
+cuenta=bk84
+home=/home/bk84
+ultimoreg=2017-09-02
+hash=ef1b89ffd78f41445d94a56b49c58d8e
+ultimaip=

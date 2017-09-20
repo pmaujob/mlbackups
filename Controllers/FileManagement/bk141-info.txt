@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Wilson Chamorro
+ipsync=172.16.18.12
+cuenta=bk141
+home=/home2/bk141
+ultimoreg=2017-09-02
+hash=9337d308af5c1d007b94998fcfb715cd
+ultimaip=

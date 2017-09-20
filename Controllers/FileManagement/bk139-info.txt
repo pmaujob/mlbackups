@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Fabio Hurtado
+ipsync=172.16.18.12
+cuenta=bk139
+home=/home2/bk139
+ultimoreg=2017-09-02
+hash=d727ee372f621b0682197c645fb4c3c2
+ultimaip=

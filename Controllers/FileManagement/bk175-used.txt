@@ -1,0 +1,4 @@
+48K	/home2/bk175//home2/bk175/opt
+36G	/home2/bk175//home2/bk175/CONTACTAR
+36G	/home2/bk175//home2/bk175
+36G	total

@@ -1,0 +1,8 @@
+AREA=Gerente San Agustin
+RESPONSABLE=MIREYA TORO
+ipsync=172.16.18.12
+cuenta=bk100
+home=/home/bk100
+ultimoreg=2017-09-02
+hash=1e98260a6f7baff6e6b3906c44dfb097
+ultimaip=

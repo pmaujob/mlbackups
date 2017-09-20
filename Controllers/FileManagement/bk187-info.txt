@@ -1,0 +1,8 @@
+AREA=Activos Fijos
+RESPONSABLE=Danilo Trejos
+ipsync=172.16.18.12
+cuenta=bk187
+home=/home2/bk187
+ultimoreg=2017-08-31
+hash=4cd02a0a1b4df40311bc00b906199389
+ultimaip=172.10.0.7

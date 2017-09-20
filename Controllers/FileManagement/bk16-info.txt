@@ -1,0 +1,8 @@
+AREA=Financiera
+RESPONSABLE=Coordinador financiero
+ipsync=172.16.18.12
+cuenta=bk16
+home=/home/bk16
+ultimoreg=2017-09-01
+hash=f09fcb18467351f8ad67fcfd40e604ca
+ultimaip=

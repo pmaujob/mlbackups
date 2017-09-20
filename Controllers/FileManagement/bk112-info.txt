@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Claudio Cuaspa
+ipsync=172.16.18.12
+cuenta=bk112
+home=/home2/bk112
+ultimoreg=2017-09-02
+hash=c3bd8b5d3b6b9082fa12d9b5e3379de8
+ultimaip=

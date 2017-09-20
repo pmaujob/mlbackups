@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Jairo Munoz
+ipsync=172.16.18.12
+cuenta=bk109
+home=/home2/bk109
+ultimoreg=2017-08-29
+hash=0a92cf185c3984fa6ce66534235ef726
+ultimaip=172.16.6.12

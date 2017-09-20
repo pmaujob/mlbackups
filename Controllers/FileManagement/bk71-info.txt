@@ -1,0 +1,8 @@
+AREA=O y M
+RESPONSABLE=Wilmer Gamboa
+ipsync=172.16.18.12
+cuenta=bk71
+home=/home/bk71
+ultimoreg=2017-09-02
+hash=6581ee1bd1cc48ee461d938483290353
+ultimaip=

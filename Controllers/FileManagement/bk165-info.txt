@@ -1,0 +1,8 @@
+AREA=Gerente El Tambo
+RESPONSABLE=Mauricio Noguera
+ipsync=172.16.18.12
+cuenta=bk165
+home=/home2/bk165
+ultimoreg=2017-09-02
+hash=86f5714119128c49c82bfaadaa19f944
+ultimaip=

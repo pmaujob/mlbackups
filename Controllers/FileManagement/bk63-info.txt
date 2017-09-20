@@ -1,0 +1,8 @@
+AREA=Operaciones
+RESPONSABLE=Claudia Trujillo
+ipsync=172.16.18.12
+cuenta=bk63
+home=/home/bk63
+ultimoreg=2017-08-17
+hash=40bb7a30a1e29a8a4cac3a71438893e9
+ultimaip=

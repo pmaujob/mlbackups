@@ -1,0 +1,8 @@
+AREA=Gerente Cajamarca
+RESPONSABLE=Jairo Acosta
+ipsync=172.16.18.12
+cuenta=bk103
+home=/home/bk103
+ultimoreg=2017-09-02
+hash=3624a8ea6564d45468e11d21128b1cfe
+ultimaip=

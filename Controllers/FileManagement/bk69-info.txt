@@ -1,0 +1,8 @@
+AREA=O y M
+RESPONSABLE=Estefania Patiño
+ipsync=172.16.18.12
+cuenta=bk69
+home=/home/bk69
+ultimoreg=2017-08-17
+hash=b15ca9570bfd779bc4ffdf9cb6826ca0
+ultimaip=

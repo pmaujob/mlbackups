@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Luis Ayala
+ipsync=172.16.18.12
+cuenta=bk66
+home=/home/bk66
+ultimoreg=2017-09-02
+hash=8e0e5d97b7145c193e546377dab0e845
+ultimaip=

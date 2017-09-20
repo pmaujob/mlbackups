@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Andres Delgado
+ipsync=172.16.18.12
+cuenta=bk129
+home=/home2/bk129
+ultimoreg=2017-09-02
+hash=0e98edd76be848ec2ddcea6510c0bf30
+ultimaip=

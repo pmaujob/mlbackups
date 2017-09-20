@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Henry Narvaez
+ipsync=172.16.18.12
+cuenta=bk172
+home=/home2/bk172
+ultimoreg=2017-08-31
+hash=5fa5249a6071a53ac09d7f6ecc37f810
+ultimaip=172.16.6.13

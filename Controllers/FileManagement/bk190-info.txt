@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Alexis Chavez
+ipsync=172.16.18.12
+cuenta=bk190
+home=/home2/bk190
+ultimoreg=2017-09-02
+hash=68a6f2c8b6cfec991c405a9b7c7dc487
+ultimaip=

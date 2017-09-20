@@ -1,0 +1,8 @@
+AREA=Tics
+RESPONSABLE=Sonya Moncayo
+ipsync=172.16.18.12
+cuenta=bk175
+home=/home2/bk175
+ultimoreg=
+hash=1c06091e7fb91ea0b7b0008bcb920f3c
+ultimaip=

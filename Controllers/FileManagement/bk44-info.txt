@@ -1,0 +1,8 @@
+AREA=Sub Administrativa
+RESPONSABLE=Myriam Ramirez
+ipsync=172.16.18.12
+cuenta=bk44
+home=/home/bk44
+ultimoreg=2017-08-31
+hash=fe2ac108c7b2aac536c0c627c88b776b
+ultimaip=172.16.5.16

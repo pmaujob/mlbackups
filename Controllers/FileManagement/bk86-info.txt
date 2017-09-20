@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Marisol Tulcan
+ipsync=172.16.18.12
+cuenta=bk86
+home=/home/bk86
+ultimoreg=2017-09-02
+hash=4abd1294a9a48b6acaadade90e4c8d18
+ultimaip=

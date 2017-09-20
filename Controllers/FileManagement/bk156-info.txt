@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Diego Tobar
+ipsync=172.16.18.12
+cuenta=bk156
+home=/home2/bk156
+ultimoreg=2017-09-02
+hash=a86d12107bbb9ac6e7a5f4608d3e2228
+ultimaip=

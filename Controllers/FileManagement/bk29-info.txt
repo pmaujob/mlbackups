@@ -1,0 +1,8 @@
+AREA=Nomina
+RESPONSABLE=Flor Escobar
+ipsync=172.16.18.12
+cuenta=bk29
+home=/home/bk29
+ultimoreg=2017-09-02
+hash=8c27f1d31a08e288aa77d63f8f07234f
+ultimaip=

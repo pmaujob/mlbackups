@@ -1,0 +1,4 @@
+28M	/home2/bk174//home2/bk174/RESPALDO
+108K	/home2/bk174//home2/bk174/opt
+28M	/home2/bk174//home2/bk174
+28M	total

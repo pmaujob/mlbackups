@@ -1,0 +1,8 @@
+AREA=Contabilidad
+RESPONSABLE=Karol Meneses
+ipsync=172.16.18.12
+cuenta=bk18
+home=/home/bk18
+ultimoreg=2017-09-01
+hash=ee7363198a64204bedab30b3a9d96e59
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Formacion y Desarrollo
+RESPONSABLE=Alicia Rosero
+ipsync=172.16.18.12
+cuenta=bk30
+home=/home/bk30
+ultimoreg=2017-09-01
+hash=6df45537b45703694784c41858cf6f6e
+ultimaip=

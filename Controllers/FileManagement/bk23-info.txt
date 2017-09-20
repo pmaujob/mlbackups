@@ -1,0 +1,8 @@
+AREA=Auditoria Interna
+RESPONSABLE=Miguel Ledezma
+ipsync=172.16.18.12
+cuenta=bk23
+home=/home/bk23
+ultimoreg=2017-09-01
+hash=9b5e1f1469b8ea4ce862fae6b04b4164
+ultimaip=

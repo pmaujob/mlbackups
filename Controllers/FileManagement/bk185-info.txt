@@ -1,0 +1,8 @@
+AREA=Talento Humano - Bienestar
+RESPONSABLE=July Burgos
+ipsync=172.16.18.12
+cuenta=bk185
+home=/home2/bk185
+ultimoreg=2017-09-02
+hash=523b883ca1072cece7edc256eda87e80
+ultimaip=

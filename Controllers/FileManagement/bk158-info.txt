@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Maria Chapuel
+ipsync=172.16.18.12
+cuenta=bk158
+home=/home2/bk158
+ultimoreg=2017-09-02
+hash=7e847c352df550d180e09b75af93bcee
+ultimaip=

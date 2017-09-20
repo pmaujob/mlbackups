@@ -1,0 +1,4 @@
+13G	/home/bk20//home/bk20/SAR2
+380K	/home/bk20//home/bk20/opt
+13G	/home/bk20//home/bk20
+13G	total

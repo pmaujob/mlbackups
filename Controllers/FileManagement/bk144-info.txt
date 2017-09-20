@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Janeth Bravo
+ipsync=172.16.18.12
+cuenta=bk144
+home=/home2/bk144
+ultimoreg=2017-09-02
+hash=9d8c4f7958a4c83aa182a05b8dc0a245
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Formación y Desarrollo
+RESPONSABLE=Edwin Quiroz
+ipsync=172.16.18.12
+cuenta=bk52
+home=/home/bk52
+ultimoreg=2017-09-02
+hash=59d3a2151a859c1f2cb0f22307704893
+ultimaip=

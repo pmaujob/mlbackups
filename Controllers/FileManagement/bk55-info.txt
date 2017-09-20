@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Viviana Ruano
+ipsync=172.16.18.12
+cuenta=bk55
+home=/home/bk55
+ultimoreg=2017-09-02
+hash=431cc96d4808306d4e00bf154ab88946
+ultimaip=

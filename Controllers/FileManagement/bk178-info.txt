@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Diego Bocanegra
+ipsync=172.16.18.12
+cuenta=bk178
+home=/home2/bk178
+ultimoreg=2017-09-02
+hash=2c4e7ec56ccf1a6b4a25f12c28bd2cdf
+ultimaip=

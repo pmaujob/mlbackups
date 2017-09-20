@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Joana Pabon
+ipsync=172.16.18.12
+cuenta=bk147
+home=/home2/bk147
+ultimoreg=2017-09-02
+hash=8aca43ba636f2b484603b7f5d55144e9
+ultimaip=

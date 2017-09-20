@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Cristina Benavides
+ipsync=172.16.18.12
+cuenta=bk127
+home=/home2/bk127
+ultimoreg=2017-09-01
+hash=44df85d6ddd258020faedf4b04f698d3
+ultimaip=

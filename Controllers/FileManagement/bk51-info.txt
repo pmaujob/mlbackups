@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Karol Gonzalez
+ipsync=172.16.18.12
+cuenta=bk51
+home=/home/bk51
+ultimoreg=2017-09-01
+hash=1d4adc496e1ed9879569ccb75e0994c7
+ultimaip=

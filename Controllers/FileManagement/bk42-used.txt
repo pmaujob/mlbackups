@@ -1,0 +1,4 @@
+48M	/home/bk42//home/bk42/opt
+78G	/home/bk42//home/bk42/SARC_2
+78G	/home/bk42//home/bk42
+78G	total

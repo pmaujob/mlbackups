@@ -1,0 +1,8 @@
+AREA=GDSA
+RESPONSABLE=Rither Acosta 
+ipsync=172.16.18.12
+cuenta=bk38
+home=/home/bk38
+ultimoreg=2017-09-02
+hash=834ef4987015809d4739e70965727a7c
+ultimaip=

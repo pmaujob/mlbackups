@@ -1,0 +1,8 @@
+AREA=Gerente Sotomayor
+RESPONSABLE=Raul Martinez
+ipsync=172.16.18.12
+cuenta=bk154
+home=/home2/bk154
+ultimoreg=2017-09-02
+hash=713989a3130f1dded2a609951f30f0e5
+ultimaip=

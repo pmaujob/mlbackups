@@ -1,0 +1,8 @@
+AREA=Gerente La Cruz
+RESPONSABLE=Andres Narvaez
+ipsync=172.16.18.12
+cuenta=bk152
+home=/home2/bk152
+ultimoreg=2017-09-01
+hash=2d923bdd929529f3faae9d601c187bdf
+ultimaip=

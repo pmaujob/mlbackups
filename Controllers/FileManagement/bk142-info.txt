@@ -1,0 +1,8 @@
+AREA=Gerente La Plata
+RESPONSABLE=Jader Solorzano
+ipsync=172.16.18.12
+cuenta=bk142
+home=/home2/bk142
+ultimoreg=2017-09-02
+hash=0016d325ceaa1fd5797943bf3a3c49b7
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Operaciones
+RESPONSABLE=Esteban Burgos
+ipsync=172.16.18.12
+cuenta=bk19
+home=/home/bk19
+ultimoreg=2017-09-01
+hash=b145365ccd5360a817c46a65bd6035ba
+ultimaip=

@@ -1,0 +1,4 @@
+300K	/home2/bk161//home2/bk161/opt
+232M	/home2/bk161//home2/bk161/PASTO BOLIVAR
+232M	/home2/bk161//home2/bk161
+232M	total

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Ruth Betancourth
+ipsync=172.16.18.12
+cuenta=bk116
+home=/home2/bk116
+ultimoreg=2017-09-02
+hash=d96f186370eba0af32a8a27c72725fe7
+ultimaip=

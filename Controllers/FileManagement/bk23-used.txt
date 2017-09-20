@@ -1,0 +1,4 @@
+196K	/home/bk23//home/bk23/opt
+23M	/home/bk23//home/bk23/RIESGOS
+23M	/home/bk23//home/bk23
+23M	total

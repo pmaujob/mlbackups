@@ -1,0 +1,8 @@
+AREA=Auditoria Interna
+RESPONSABLE=Mauricio Rosero
+ipsync=172.16.18.12
+cuenta=bk182
+home=/home2/bk182
+ultimoreg=2017-08-24
+hash=134b284fbd92abd6581e0a8ba69fca77
+ultimaip=

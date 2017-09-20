@@ -1,0 +1,8 @@
+AREA=Gerente Orito
+RESPONSABLE=Xiomara Alexandra Enriquez
+ipsync=172.16.18.12
+cuenta=bk91
+home=/home/bk91
+ultimoreg=2017-09-02
+hash=7d036474ceb33658e0caac09d637c424
+ultimaip=

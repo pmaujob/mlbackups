@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Luis Guerrero
+ipsync=172.16.18.12
+cuenta=bk157
+home=/home2/bk157
+ultimoreg=2017-09-02
+hash=84e76b689764618e88cb0e9bfa06866f
+ultimaip=

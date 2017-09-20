@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Juliana Portilla
+ipsync=172.16.18.12
+cuenta=bk155
+home=/home2/bk155
+ultimoreg=2017-09-02
+hash=68923566768e2222eb848949f8df531e
+ultimaip=

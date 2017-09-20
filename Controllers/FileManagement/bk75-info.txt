@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Oscar Lozano
+ipsync=172.16.18.12
+cuenta=bk75
+home=/home/bk75
+ultimoreg=2017-09-02
+hash=eefc7644f2b61f4705ab0a4dc75d2422
+ultimaip=

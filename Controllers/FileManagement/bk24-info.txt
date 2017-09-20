@@ -1,0 +1,8 @@
+AREA=Nomina
+RESPONSABLE=Milton Ordonez
+ipsync=172.16.18.12
+cuenta=bk24
+home=/home/bk24
+ultimoreg=2017-09-01
+hash=3c36ea6fb80f36faa7db30690f58d550
+ultimaip=

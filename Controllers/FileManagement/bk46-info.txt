@@ -1,0 +1,8 @@
+AREA=Contabilidad
+RESPONSABLE=Yaneth Martinez
+ipsync=172.16.18.12
+cuenta=bk46
+home=/home/bk46
+ultimoreg=2017-09-02
+hash=46036838f466a7fb97d6db7538113d96
+ultimaip=

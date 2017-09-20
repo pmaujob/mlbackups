@@ -1,0 +1,8 @@
+AREA=Compras
+RESPONSABLE=Byron Botina
+ipsync=172.16.18.12
+cuenta=bk99
+home=/home/bk99
+ultimoreg=2017-09-01
+hash=1b3d0ba76a0200ca94df94a65b41d034
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Jaqueline Gomez
+ipsync=172.16.18.12
+cuenta=bk161
+home=/home2/bk161
+ultimoreg=2017-09-02
+hash=ea9ac6745e32930940095c83de1ae287
+ultimaip=

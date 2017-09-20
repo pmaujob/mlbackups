@@ -1,0 +1,8 @@
+AREA=Tics
+RESPONSABLE=Maicol Burbano
+ipsync=172.16.18.12
+cuenta=bk151
+home=/home2/bk151
+ultimoreg=2017-09-02
+hash=287627e35ba1e0cc02963f62faee6e9d
+ultimaip=

@@ -1,0 +1,4 @@
+11G	/home/bk17//home/bk17/RESPALDO
+324K	/home/bk17//home/bk17/opt
+11G	/home/bk17//home/bk17
+11G	total

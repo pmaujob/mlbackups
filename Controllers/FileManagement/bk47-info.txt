@@ -1,0 +1,8 @@
+AREA=Presupuesto
+RESPONSABLE=Olga Lucia Vinueza
+ipsync=172.16.18.12
+cuenta=bk47
+home=/home/bk47
+ultimoreg=2017-09-01
+hash=d4a45761f10d79b41a4f7abf44b6998c
+ultimaip=

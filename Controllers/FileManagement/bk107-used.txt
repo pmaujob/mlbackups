@@ -1,0 +1,4 @@
+192K	/home/bk107//home/bk107/opt
+159M	/home/bk107//home/bk107/DOCUMENTOS
+159M	/home/bk107//home/bk107
+159M	total

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Andres Jimenes
+ipsync=172.16.18.12
+cuenta=bk173
+home=/home2/bk173
+ultimoreg=2017-08-30
+hash=63798c67e936503381e3cef326b2fa8f
+ultimaip=172.16.93.69

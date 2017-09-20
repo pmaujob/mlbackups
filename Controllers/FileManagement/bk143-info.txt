@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Jairo Barreto
+ipsync=172.16.18.12
+cuenta=bk143
+home=/home2/bk143
+ultimoreg=2017-09-02
+hash=1381157dea7381ca6287b3394c26b6b4
+ultimaip=

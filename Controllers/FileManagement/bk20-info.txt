@@ -1,0 +1,8 @@
+AREA=Riesgos
+RESPONSABLE=Angela Revelo
+ipsync=172.16.18.12
+cuenta=bk20
+home=/home/bk20
+ultimoreg=2017-09-01
+hash=42648e8750e152d989f57e77ccc3847f
+ultimaip=

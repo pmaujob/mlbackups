@@ -1,0 +1,8 @@
+AREA=Dirección Th
+RESPONSABLE=Zulma Morales
+ipsync=172.16.18.12
+cuenta=bk184
+home=/home2/bk184
+ultimoreg=2017-09-01
+hash=acac3ab01bee2139611704da72401e93
+ultimaip=

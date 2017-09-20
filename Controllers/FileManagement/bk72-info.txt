@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Luis Obando
+ipsync=172.16.18.12
+cuenta=bk72
+home=/home/bk72
+ultimoreg=2017-09-02
+hash=72889e8336a6be89bf8a7613d3e2a2b2
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Gerente Libano
+RESPONSABLE=Maira Maca
+ipsync=172.16.18.12
+cuenta=bk79
+home=/home/bk79
+ultimoreg=2017-09-02
+hash=f758213431fba2a7e24887f0c8899f70
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Juridico
+RESPONSABLE=Marco Ceballos
+ipsync=172.16.18.12
+cuenta=bk43
+home=/home/bk43
+ultimoreg=2017-09-02
+hash=194fb58479094c42b07a42c5fd96b319
+ultimaip=

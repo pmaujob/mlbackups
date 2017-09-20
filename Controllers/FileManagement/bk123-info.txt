@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Milton Garcia
+ipsync=172.16.18.12
+cuenta=bk123
+home=/home2/bk123
+ultimoreg=2017-09-01
+hash=3f6633f2d1a357b07d06dcd90cf015c3
+ultimaip=

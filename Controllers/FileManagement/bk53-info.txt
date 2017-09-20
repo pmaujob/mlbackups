@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Milena Melo
+ipsync=172.16.18.12
+cuenta=bk53
+home=/home/bk53
+ultimoreg=2017-09-02
+hash=09c1b181f13b6c2e735c607e59b43006
+ultimaip=

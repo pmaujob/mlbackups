@@ -1,0 +1,8 @@
+AREA=Sub Gerente Ipiales catedral
+RESPONSABLE=Omaira Vallejo
+ipsync=172.16.18.12
+cuenta=bk170
+home=/home2/bk170
+ultimoreg=2017-09-02
+hash=bf9452dd1eb220f6250fe25e5c99bcfd
+ultimaip=

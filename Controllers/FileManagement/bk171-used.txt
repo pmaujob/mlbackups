@@ -1,0 +1,4 @@
+52K	/home2/bk171//home2/bk171/opt
+249M	/home2/bk171//home2/bk171/Users
+249M	/home2/bk171//home2/bk171
+249M	total

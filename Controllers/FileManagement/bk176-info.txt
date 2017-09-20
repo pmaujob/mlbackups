@@ -1,0 +1,8 @@
+AREA=Mercadeo
+RESPONSABLE=Eliana Belalcazar
+ipsync=172.16.18.12
+cuenta=bk176
+home=/home2/bk176
+ultimoreg=2017-09-01
+hash=590ffc566590e423088caf69a57f19cb
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Carlos Bacca
+ipsync=172.16.18.12
+cuenta=bk130
+home=/home2/bk130
+ultimoreg=2017-09-02
+hash=7b088c349b05abae5ed3c84e2e724bb3
+ultimaip=

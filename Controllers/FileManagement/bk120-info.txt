@@ -1,0 +1,8 @@
+AREA=GDSA
+RESPONSABLE=Francisco Burbano
+ipsync=172.16.18.12
+cuenta=bk120
+home=/home2/bk120
+ultimoreg=2017-09-02
+hash=c05b70911b2ac3976614b370b6e693c4
+ultimaip=

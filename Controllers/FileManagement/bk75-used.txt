@@ -1,0 +1,4 @@
+1.9G	/home/bk75//home/bk75/BACKUPS
+304K	/home/bk75//home/bk75/opt
+1.9G	/home/bk75//home/bk75
+1.9G	total

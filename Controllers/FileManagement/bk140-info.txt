@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Maritza Delgado
+ipsync=172.16.18.12
+cuenta=bk140
+home=/home2/bk140
+ultimoreg=2017-09-01
+hash=e7c4605ed35e98f9af174f4aaf087bd5
+ultimaip=

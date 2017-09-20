@@ -1,0 +1,8 @@
+AREA=Activos Fijos
+RESPONSABLE=Oscar Gomajoa
+ipsync=172.16.18.12
+cuenta=bk40
+home=/home/bk40
+ultimoreg=2017-09-02
+hash=ef03e49dec464bd595cd68fe2105c790
+ultimaip=

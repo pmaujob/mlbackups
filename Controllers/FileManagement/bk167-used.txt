@@ -1,0 +1,4 @@
+16G	/home2/bk167//home2/bk167/Proyecto FBS Contactar
+613M	/home2/bk167//home2/bk167/opt
+16G	/home2/bk167//home2/bk167
+16G	total

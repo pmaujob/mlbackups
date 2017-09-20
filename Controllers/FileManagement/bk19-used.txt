@@ -1,0 +1,4 @@
+458M	/home/bk19//home/bk19/Ciso
+232K	/home/bk19//home/bk19/opt
+459M	/home/bk19//home/bk19
+459M	total

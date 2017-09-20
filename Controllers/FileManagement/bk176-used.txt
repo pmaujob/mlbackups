@@ -1,0 +1,4 @@
+400K	/home2/bk176//home2/bk176/opt
+16G	/home2/bk176//home2/bk176/COORD MERCADEO
+16G	/home2/bk176//home2/bk176
+16G	total

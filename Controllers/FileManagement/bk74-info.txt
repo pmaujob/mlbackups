@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Augusto Villalba
+ipsync=172.16.18.12
+cuenta=bk74
+home=/home/bk74
+ultimoreg=2017-09-02
+hash=e29e8a053911f6f638fe3a4f61c5027c
+ultimaip=

@@ -1,0 +1,4 @@
+496K	/home2/bk110//home2/bk110/opt
+4.2G	/home2/bk110//home2/bk110/BACKUPS PROCESO WCF
+4.2G	/home2/bk110//home2/bk110
+4.2G	total

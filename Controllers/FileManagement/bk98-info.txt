@@ -1,0 +1,8 @@
+AREA=Gerente Zona Putumayo
+RESPONSABLE=Jony Cabrera
+ipsync=172.16.18.12
+cuenta=bk98
+home=/home/bk98
+ultimoreg=2017-09-01
+hash=bc881b6653fdae75427dd9da52f282f8
+ultimaip=

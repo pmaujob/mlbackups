@@ -1,0 +1,8 @@
+AREA=Mercadeo
+RESPONSABLE=Libardo Mejia
+ipsync=172.16.18.12
+cuenta=bk60
+home=/home/bk60
+ultimoreg=2017-09-01
+hash=5ecb12aad89e7255b15133ecd9546365
+ultimaip=

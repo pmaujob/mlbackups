@@ -1,0 +1,8 @@
+AREA=Operaciones
+RESPONSABLE=Jose Moncayo
+ipsync=172.16.18.12
+cuenta=bk133
+home=/home2/bk133
+ultimoreg=2017-09-02
+hash=579d503cc7432e404186aa5caea80cc4
+ultimaip=

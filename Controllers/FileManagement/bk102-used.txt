@@ -1,0 +1,4 @@
+21G	/home/bk102//home/bk102/RESPALDO
+624M	/home/bk102//home/bk102/opt
+21G	/home/bk102//home/bk102
+21G	total

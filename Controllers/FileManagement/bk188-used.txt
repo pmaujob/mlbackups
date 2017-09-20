@@ -1,0 +1,4 @@
+2.7M	/home2/bk188//home2/bk188/opt
+31G	/home2/bk188//home2/bk188/bk_files
+31G	/home2/bk188//home2/bk188
+31G	total

@@ -1,0 +1,8 @@
+AREA=Gerente La Argentina
+RESPONSABLE=Edwin Anaya Trujillo
+ipsync=172.16.18.12
+cuenta=bk137
+home=/home2/bk137
+ultimoreg=2017-09-02
+hash=689d01c7acedcaeec19ad6cbd0361369
+ultimaip=

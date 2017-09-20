@@ -1,0 +1,4 @@
+74G	/home/bk38//home/bk38/Rither Acosta
+220M	/home/bk38//home/bk38/opt
+74G	/home/bk38//home/bk38
+74G	total

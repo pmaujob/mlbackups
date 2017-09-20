@@ -1,0 +1,4 @@
+620K	/home2/bk152//home2/bk152/opt
+5.7G	/home2/bk152//home2/bk152/GERENTE
+5.7G	/home2/bk152//home2/bk152
+5.7G	total

@@ -1,0 +1,4 @@
+11G	/home/bk106//home/bk106/BACKUPS
+5.9M	/home/bk106//home/bk106/opt
+11G	/home/bk106//home/bk106
+11G	total

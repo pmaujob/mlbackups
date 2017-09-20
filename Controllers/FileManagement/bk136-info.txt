@@ -1,0 +1,8 @@
+AREA=Gerente Zonal Puerto asis
+RESPONSABLE=JONNY CABRERA
+ipsync=172.16.18.12
+cuenta=bk136
+home=/home2/bk136
+ultimoreg=2017-08-31
+hash=42c72e2d84c17e788125e7022fbf43a3
+ultimaip=172.17.37.81

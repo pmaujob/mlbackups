@@ -1,0 +1,4 @@
+64K	/home2/bk12//home2/bk12/opt
+3.7G	/home2/bk12//home2/bk12/Mauricio R
+3.7G	/home2/bk12//home2/bk12
+3.7G	total

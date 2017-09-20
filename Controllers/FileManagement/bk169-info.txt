@@ -1,0 +1,8 @@
+AREA=Gerente Ipiales Catedral
+RESPONSABLE=Marian Rodriguez
+ipsync=172.16.18.12
+cuenta=bk169
+home=/home2/bk169
+ultimoreg=2017-09-02
+hash=d5cca44eb8345657c43b970a6ec8b01f
+ultimaip=

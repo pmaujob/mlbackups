@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Ricardo Enriquez
+ipsync=172.16.18.12
+cuenta=bk48
+home=/home/bk48
+ultimoreg=
+hash=b27b2f0eb3f17e7297c9b23522db352a
+ultimaip=

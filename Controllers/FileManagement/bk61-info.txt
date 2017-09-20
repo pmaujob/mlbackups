@@ -1,0 +1,8 @@
+AREA=Mercadeo
+RESPONSABLE=Fernando Viteri
+ipsync=172.16.18.12
+cuenta=bk61
+home=/home/bk61
+ultimoreg=2017-09-02
+hash=7bb35942235b452a502ee214345c5321
+ultimaip=

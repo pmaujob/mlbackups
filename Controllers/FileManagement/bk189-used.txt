@@ -1,0 +1,4 @@
+63M	/home2/bk189//home2/bk189/opt
+34G	/home2/bk189//home2/bk189/Contactar_Tics
+34G	/home2/bk189//home2/bk189
+34G	total

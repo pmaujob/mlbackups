@@ -1,0 +1,8 @@
+AREA=Juridico
+RESPONSABLE=Johanna Barrera
+ipsync=172.16.18.12
+cuenta=bk45
+home=/home/bk45
+ultimoreg=2017-09-02
+hash=1144a0d644853e376b4424056394659c
+ultimaip=

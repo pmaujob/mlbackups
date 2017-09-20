@@ -1,0 +1,8 @@
+AREA=Gerente Pasto Centro
+RESPONSABLE=Mauricio Dulce
+ipsync=172.16.18.12
+cuenta=bk105
+home=/home/bk105
+ultimoreg=2017-09-02
+hash=e8220195e0dd7bf4634dc9e4e8340627
+ultimaip=

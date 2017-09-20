@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Mario Meneses
+ipsync=172.16.18.12
+cuenta=bk160
+home=/home2/bk160
+ultimoreg=2017-09-02
+hash=cc212b4548213b978ffa13c6b7d6db6d
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Jhonny Cabrera
+ipsync=172.16.18.12
+cuenta=bk125
+home=/home2/bk125
+ultimoreg=2017-08-29
+hash=fc427a30f89d8a4efd723ceeca976764
+ultimaip=172.17.37.11

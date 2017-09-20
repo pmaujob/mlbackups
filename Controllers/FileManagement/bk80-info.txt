@@ -1,0 +1,8 @@
+AREA=Gerente Fresno
+RESPONSABLE=Luis Rojas
+ipsync=172.16.18.12
+cuenta=bk80
+home=/home/bk80
+ultimoreg=2017-09-01
+hash=c66753301c63ee2c5459ab1736975561
+ultimaip=

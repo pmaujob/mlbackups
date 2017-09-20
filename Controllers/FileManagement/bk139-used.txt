@@ -1,0 +1,4 @@
+256K	/home2/bk139//home2/bk139/opt
+19G	/home2/bk139//home2/bk139/Asignaciones
+19G	/home2/bk139//home2/bk139
+19G	total

@@ -1,0 +1,8 @@
+AREA=pc pruebas home2
+RESPONSABLE=lab
+ipsync=172.16.18.12
+cuenta=bk171
+home=/home2/bk171
+ultimoreg=
+hash=c9aad36676c8df92dacaf1cab579ac63
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=TICs
+RESPONSABLE=Mario Perez
+ipsync=172.16.18.12
+cuenta=bk189
+home=/home2/bk189
+ultimoreg=2017-09-02
+hash=bc85cb76e9414f031e3040555d9cbe80
+ultimaip=

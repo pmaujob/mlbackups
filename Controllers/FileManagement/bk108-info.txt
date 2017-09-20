@@ -1,0 +1,8 @@
+AREA=Gerente Comercial 2
+RESPONSABLE=Jesus Perez
+ipsync=172.16.18.12
+cuenta=bk108
+home=/home2/bk108
+ultimoreg=2017-09-02
+hash=2441627aab00191baba61173500d14ff
+ultimaip=

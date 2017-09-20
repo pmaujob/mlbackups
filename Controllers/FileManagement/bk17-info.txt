@@ -1,0 +1,8 @@
+AREA=Contabilidad
+RESPONSABLE=Willinton Burbano
+ipsync=172.16.18.12
+cuenta=bk17
+home=/home/bk17
+ultimoreg=2017-09-02
+hash=f245aa6312198b7843e4fc5383854ba9
+ultimaip=

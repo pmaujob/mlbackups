@@ -1,0 +1,8 @@
+AREA=Seleccion TH
+RESPONSABLE=David Jimenez
+ipsync=172.16.18.12
+cuenta=bk37
+home=/home/bk37
+ultimoreg=2017-09-02
+hash=1c36f5801c23897463871028f3c978fc
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Gerente Pitalito 2
+RESPONSABLE=Daniel Jimenes
+ipsync=172.16.18.12
+cuenta=bk145
+home=/home2/bk145
+ultimoreg=2017-09-01
+hash=82ca4b609619d5d298ff1a3666bc440a
+ultimaip=

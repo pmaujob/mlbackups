@@ -1,0 +1,3 @@
+64K	/home2/bk184//home2/bk184/opt
+68K	/home2/bk184//home2/bk184
+68K	total

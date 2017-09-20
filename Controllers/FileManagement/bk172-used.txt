@@ -1,0 +1,4 @@
+3.4G	/home2/bk172//home2/bk172/RESPALDO
+136K	/home2/bk172//home2/bk172/opt
+3.4G	/home2/bk172//home2/bk172
+3.4G	total

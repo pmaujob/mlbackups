@@ -1,0 +1,8 @@
+AREA=Tics
+RESPONSABLE=Camilo Cerquera
+ipsync=172.16.18.12
+cuenta=bk188
+home=/home2/bk188
+ultimoreg=2017-09-02
+hash=442cdbaf0db17f5b45126c7c4d0f4cb8
+ultimaip=

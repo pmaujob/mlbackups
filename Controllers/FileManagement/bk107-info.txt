@@ -1,0 +1,8 @@
+AREA=Gte Zonal Centro
+RESPONSABLE=Jaqueline Montenegro
+ipsync=172.16.18.12
+cuenta=bk107
+home=/home/bk107
+ultimoreg=2017-09-02
+hash=5ace9270ccb0dfb652a4152e2f458f68
+ultimaip=

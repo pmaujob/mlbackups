@@ -1,0 +1,4 @@
+132K	/home2/bk183//home2/bk183/opt
+4.1G	/home2/bk183//home2/bk183/Backups
+4.1G	/home2/bk183//home2/bk183
+4.1G	total

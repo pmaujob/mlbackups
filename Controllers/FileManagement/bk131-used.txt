@@ -1,0 +1,4 @@
+29M	/home2/bk131//home2/bk131/opt
+6.5G	/home2/bk131//home2/bk131/SGC  CONSOLIDADO FINAL
+6.5G	/home2/bk131//home2/bk131
+6.5G	total

@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Miller Rosero
+ipsync=172.16.18.12
+cuenta=bk113
+home=/home2/bk113
+ultimoreg=2017-09-01
+hash=8ecf70f624376fb1306dbd014b295004
+ultimaip=

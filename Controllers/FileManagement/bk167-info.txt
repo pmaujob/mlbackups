@@ -1,0 +1,8 @@
+AREA=Programación
+RESPONSABLE=Carlos Arteaga
+ipsync=172.16.18.12
+cuenta=bk167
+home=/home2/bk167
+ultimoreg=2017-09-02
+hash=8a7fb5d5d695459621290ee7a66ad5aa
+ultimaip=

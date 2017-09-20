@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Jose Garcia
+ipsync=172.16.18.12
+cuenta=bk159
+home=/home2/bk159
+ultimoreg=2017-09-02
+hash=f24ebc8f72ceb9067f070ba243f70183
+ultimaip=

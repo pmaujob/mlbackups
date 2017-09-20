@@ -1,0 +1,8 @@
+AREA=Guamo Gerente
+RESPONSABLE=Klinsmann Esmith
+ipsync=172.16.18.12
+cuenta=bk85
+home=/home/bk85
+ultimoreg=2017-09-01
+hash=535c9b43f986a7cc5174c6baaf29ca6b
+ultimaip=

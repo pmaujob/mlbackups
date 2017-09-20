@@ -1,0 +1,8 @@
+AREA=Gerente Comercial
+RESPONSABLE=Diego Benavides
+ipsync=172.16.18.12
+cuenta=bk102
+home=/home/bk102
+ultimoreg=2017-09-02
+hash=10cdbb21f2bb4722385b68097870e1fd
+ultimaip=

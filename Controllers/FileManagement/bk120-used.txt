@@ -1,0 +1,4 @@
+776K	/home2/bk120//home2/bk120/opt
+64G	/home2/bk120//home2/bk120/FranciscoGDSA
+64G	/home2/bk120//home2/bk120
+64G	total

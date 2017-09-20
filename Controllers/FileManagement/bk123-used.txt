@@ -1,0 +1,4 @@
+216K	/home2/bk123//home2/bk123/opt
+156M	/home2/bk123//home2/bk123/Documentos
+156M	/home2/bk123//home2/bk123
+156M	total

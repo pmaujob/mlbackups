@@ -1,0 +1,8 @@
+AREA=Financiera
+RESPONSABLE=Roberto Noguera
+ipsync=172.16.18.12
+cuenta=bk117
+home=/home2/bk117
+ultimoreg=2017-09-01
+hash=2933fef8eb5b9bb432f6d875343b5490
+ultimaip=

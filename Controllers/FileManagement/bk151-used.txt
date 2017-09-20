@@ -1,0 +1,4 @@
+287M	/home2/bk151//home2/bk151/Backup
+476K	/home2/bk151//home2/bk151/opt
+288M	/home2/bk151//home2/bk151
+288M	total

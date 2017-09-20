@@ -1,0 +1,8 @@
+AREA=Juridico
+RESPONSABLE=Cindy Cordoba
+ipsync=172.16.18.12
+cuenta=bk32
+home=/home/bk32
+ultimoreg=2017-09-02
+hash=1a6e2f4c8965b37a769e74194330da5f
+ultimaip=

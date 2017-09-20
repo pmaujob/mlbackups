@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=AuditoriaFtp
+ipsync=172.16.18.12
+cuenta=bk148
+home=/home2/bk148
+ultimoreg=2017-09-02
+hash=5a8a9f12fba6d8f4d62398a7e1eace71
+ultimaip=

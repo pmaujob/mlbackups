@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Luis Moreno
+ipsync=172.16.18.12
+cuenta=bk162
+home=/home2/bk162
+ultimoreg=2017-09-02
+hash=e11f82c14e16e4d6722d544684613c71
+ultimaip=

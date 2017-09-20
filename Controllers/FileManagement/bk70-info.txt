@@ -1,0 +1,8 @@
+AREA=Subgerente Pasto Centro
+RESPONSABLE=Damaris Narvaez
+ipsync=172.16.18.12
+cuenta=bk70
+home=/home/bk70
+ultimoreg=2017-09-02
+hash=cf61ff5c8e3098b30a1f9e476ff6c4c9
+ultimaip=

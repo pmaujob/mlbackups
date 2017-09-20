@@ -1,0 +1,8 @@
+AREA=Programacion
+RESPONSABLE=Gabriel Ibarra
+ipsync=172.16.18.12
+cuenta=bk138
+home=/home2/bk138
+ultimoreg=2017-09-02
+hash=f0a83a45f26f459c158dc15b1c1e19d7
+ultimaip=

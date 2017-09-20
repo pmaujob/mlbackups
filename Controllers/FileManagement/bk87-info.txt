@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Gerente Zonal
+ipsync=172.16.18.12
+cuenta=bk87
+home=/home/bk87
+ultimoreg=2017-09-02
+hash=b48023a7e57ace856f394d282acdf4eb
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Sindy Gutierrez
+ipsync=172.16.18.12
+cuenta=bk68
+home=/home/bk68
+ultimoreg=2017-09-01
+hash=eb71564b78c651f8eea09217c2a08cdf
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Pagares
+RESPONSABLE=Oscar Guerrero
+ipsync=172.16.18.12
+cuenta=bk64
+home=/home/bk64
+ultimoreg=2017-09-02
+hash=7eb1e456fa1ec421bd53cf6983f6d816
+ultimaip=

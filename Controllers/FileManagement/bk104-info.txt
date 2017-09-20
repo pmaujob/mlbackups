@@ -1,0 +1,8 @@
+AREA=Gerente Isnos
+RESPONSABLE=Maria Isabel Paredes
+ipsync=172.16.18.12
+cuenta=bk104
+home=/home/bk104
+ultimoreg=2017-09-01
+hash=227a686bf96e32011ed2a0898d5b66b6
+ultimaip=

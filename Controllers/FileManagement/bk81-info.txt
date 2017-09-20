@@ -1,0 +1,8 @@
+AREA=Gerente La Hormiga
+RESPONSABLE=Wilfredo Daza
+ipsync=172.16.18.12
+cuenta=bk81
+home=/home/bk81
+ultimoreg=2017-09-02
+hash=a1faad0bfa4014245e1cdc8701a1fd58
+ultimaip=

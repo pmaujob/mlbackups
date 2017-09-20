@@ -1,0 +1,4 @@
+100K	/home2/bk186//home2/bk186/opt
+59G	/home2/bk186//home2/bk186/CONTACTAR
+59G	/home2/bk186//home2/bk186
+59G	total

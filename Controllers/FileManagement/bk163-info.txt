@@ -1,0 +1,8 @@
+AREA=Riesgos
+RESPONSABLE=Ana Cristina Rosero
+ipsync=172.16.18.12
+cuenta=bk163
+home=/home2/bk163
+ultimoreg=2017-08-30
+hash=1db2a84b4da3de4b174d6fd7a5fd8341
+ultimaip=172.16.5.12

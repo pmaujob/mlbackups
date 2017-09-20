@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Director Comercial
+ipsync=172.16.18.12
+cuenta=bk174
+home=/home2/bk174
+ultimoreg=2017-08-30
+hash=05cbaf1e1ac92c0388ea4edd7b0ac887
+ultimaip=172.16.5.17

@@ -1,0 +1,8 @@
+AREA=Subgerente Neiva
+RESPONSABLE=Erika Maria Romero
+ipsync=172.16.18.12
+cuenta=bk92
+home=/home/bk92
+ultimoreg=2017-09-02
+hash=e5189afb802ea701c00c34fa242c607f
+ultimaip=

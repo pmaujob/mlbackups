@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Cristopher Castillo
+ipsync=172.16.18.12
+cuenta=bk67
+home=/home/bk67
+ultimoreg=2017-09-02
+hash=002c2e2d07eaf6905a8f1b5ca3d1bab6
+ultimaip=

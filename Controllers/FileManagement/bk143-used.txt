@@ -1,0 +1,4 @@
+5.5M	/home2/bk143//home2/bk143/opt
+5.7G	/home2/bk143//home2/bk143/BackupsJB
+5.7G	/home2/bk143//home2/bk143
+5.7G	total

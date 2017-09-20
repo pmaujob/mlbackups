@@ -1,0 +1,4 @@
+3.9M	/home/bk50//home/bk50/opt
+7.5G	/home/bk50//home/bk50/INFORMACION TESORERIA
+7.5G	/home/bk50//home/bk50
+7.5G	total

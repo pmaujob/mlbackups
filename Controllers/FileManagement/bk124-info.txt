@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Paola Rosales
+ipsync=172.16.18.12
+cuenta=bk124
+home=/home2/bk124
+ultimoreg=2017-09-02
+hash=5ce248043f9a58820053a6d594fb91f3
+ultimaip=

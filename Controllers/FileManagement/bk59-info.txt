@@ -1,0 +1,8 @@
+AREA=O y M
+RESPONSABLE=Sandra Santacruz
+ipsync=172.16.18.12
+cuenta=bk59
+home=/home/bk59
+ultimoreg=2017-09-02
+hash=819cbdd14625977bb558b118e204002d
+ultimaip=

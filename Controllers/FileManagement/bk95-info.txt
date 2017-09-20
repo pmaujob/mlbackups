@@ -1,0 +1,8 @@
+AREA=Gerente Villagarzon
+RESPONSABLE=Ariel Rivadeneira
+ipsync=172.16.18.12
+cuenta=bk95
+home=/home/bk95
+ultimoreg=2017-09-02
+hash=7a190236a703c4cc51cfea522cfb73b0
+ultimaip=

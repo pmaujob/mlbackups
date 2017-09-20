@@ -1,0 +1,8 @@
+AREA=TECNOLOGIA
+RESPONSABLE=CESAR FRANCISCO RIVERA JIMENEZ
+ipsync=172.16.18.12
+cuenta=bk65
+home=/home/bk65
+ultimoreg=2017-09-01
+hash=f3e5af193215c53d394c2029ee9a1e8e
+ultimaip=

@@ -1,0 +1,4 @@
+256K	/home/bk72//home/bk72/SubgerenteOficina_Luis
+160K	/home/bk72//home/bk72/opt
+420K	/home/bk72//home/bk72
+420K	total

@@ -1,0 +1,8 @@
+AREA=Nomina
+RESPONSABLE=Oscar Burbano
+ipsync=172.16.18.12
+cuenta=bk25
+home=/home/bk25
+ultimoreg=2017-09-02
+hash=83fffd3019651b77d0782283f210d9eb
+ultimaip=

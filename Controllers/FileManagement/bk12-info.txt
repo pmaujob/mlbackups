@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Mauricio Rosero
+ipsync=172.16.18.12
+cuenta=bk12
+home=/home2/bk12
+ultimoreg=2017-09-01
+hash=adbd99875b6b595af191712f2615a61b
+ultimaip=

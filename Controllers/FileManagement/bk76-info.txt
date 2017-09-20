@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Yesica Paola Ortiz
+ipsync=172.16.18.12
+cuenta=bk76
+home=/home/bk76
+ultimoreg=2017-09-02
+hash=9477d319650efe6b249121e82526557b
+ultimaip=

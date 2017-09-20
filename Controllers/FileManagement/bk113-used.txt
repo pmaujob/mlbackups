@@ -1,0 +1,4 @@
+164K	/home2/bk113//home2/bk113/opt
+15G	/home2/bk113//home2/bk113/AUDITORIA MILLER
+15G	/home2/bk113//home2/bk113
+15G	total

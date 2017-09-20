@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Jesus Urbano
+ipsync=172.16.18.12
+cuenta=bk149
+home=/home2/bk149
+ultimoreg=2017-09-02
+hash=b9b9e97838b31b61e833e440c0f9bcc5
+ultimaip=

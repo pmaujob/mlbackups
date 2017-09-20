@@ -1,0 +1,8 @@
+AREA=Operaciones
+RESPONSABLE=Jose Jesús Muñoz
+ipsync=172.16.18.12
+cuenta=bk126
+home=/home2/bk126
+ultimoreg=2017-09-02
+hash=7c1e8b379446575506d658a97c1a293f
+ultimaip=

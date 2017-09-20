@@ -1,0 +1,4 @@
+4.8G	/home2/bk165//home2/bk165/Gerente El Tambo
+680K	/home2/bk165//home2/bk165/opt
+4.8G	/home2/bk165//home2/bk165
+4.8G	total

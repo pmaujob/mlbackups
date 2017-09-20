@@ -1,0 +1,8 @@
+AREA=Gerente Garzon
+RESPONSABLE=Arlex Caipe
+ipsync=172.16.18.12
+cuenta=bk106
+home=/home/bk106
+ultimoreg=2017-08-31
+hash=3fb68af9938e86a0d0547fbe5922e8b3
+ultimaip=172.17.29.11

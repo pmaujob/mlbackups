@@ -1,0 +1,4 @@
+9.0G	/home/bk25//home/bk25/RESPALDO
+332K	/home/bk25//home/bk25/opt
+9.0G	/home/bk25//home/bk25
+9.0G	total

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Ana Luisa 
+ipsync=172.16.18.12
+cuenta=bk121
+home=/home2/bk121
+ultimoreg=2017-09-02
+hash=31b58d67a19608217f8552f78fe5a4b0
+ultimaip=

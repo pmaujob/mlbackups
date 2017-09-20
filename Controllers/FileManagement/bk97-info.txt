@@ -1,0 +1,8 @@
+AREA=Auditoria Interna
+RESPONSABLE=Jair Urbano
+ipsync=172.16.18.12
+cuenta=bk97
+home=/home/bk97
+ultimoreg=2017-09-01
+hash=52a86a2e0d652161fbae3080f9a7a246
+ultimaip=

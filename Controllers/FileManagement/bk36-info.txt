@@ -1,0 +1,8 @@
+AREA=Activos Fijos
+RESPONSABLE=Alejandra Guerrero
+ipsync=172.16.18.12
+cuenta=bk36
+home=/home/bk36
+ultimoreg=2017-09-02
+hash=dfe97474680bc6a596ea3624017fb7d0
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Dario Pantoja
+ipsync=172.16.18.12
+cuenta=bk122
+home=/home2/bk122
+ultimoreg=2017-09-02
+hash=498c53fbe867ff35f7220bb633267c7a
+ultimaip=

@@ -1,0 +1,4 @@
+344K	/home/bk16//home/bk16/opt
+83G	/home/bk16//home/bk16/Compartida
+83G	/home/bk16//home/bk16
+83G	total

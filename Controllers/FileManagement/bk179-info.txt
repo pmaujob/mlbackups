@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Geovanny Tobar
+ipsync=172.16.18.12
+cuenta=bk179
+home=/home2/bk179
+ultimoreg=2017-09-01
+hash=abbc63f562d945ec0ffecaa8e0087cb9
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Gerente Zonal Tolima Sur
+RESPONSABLE=Rafael Caicedo
+ipsync=172.16.18.12
+cuenta=bk88
+home=/home/bk88
+ultimoreg=2017-09-02
+hash=dcadd233a22c9286d1dc32f41d1516d1
+ultimaip=

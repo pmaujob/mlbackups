@@ -1,0 +1,4 @@
+92K	/home2/bk190//home2/bk190/opt
+10G	/home2/bk190//home2/bk190/Respaldo
+10G	/home2/bk190//home2/bk190
+10G	total

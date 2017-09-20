@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Aura Rodriguez
+ipsync=172.16.18.12
+cuenta=bk128
+home=/home2/bk128
+ultimoreg=2017-09-02
+hash=fc59039bdf998df608d4493e9f8f4169
+ultimaip=

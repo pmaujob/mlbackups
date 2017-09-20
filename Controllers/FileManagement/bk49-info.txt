@@ -1,0 +1,8 @@
+AREA=Presupuesto
+RESPONSABLE=Jennyffer Santander
+ipsync=172.16.18.12
+cuenta=bk49
+home=/home/bk49
+ultimoreg=2017-09-02
+hash=85119e869c6eb88df1cbe235731aaef9
+ultimaip=

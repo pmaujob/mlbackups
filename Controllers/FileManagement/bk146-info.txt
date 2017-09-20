@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Byron Taimbud
+ipsync=172.16.18.12
+cuenta=bk146
+home=/home2/bk146
+ultimoreg=2017-09-01
+hash=86856647c52842acfc93e12f93aa3834
+ultimaip=

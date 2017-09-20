@@ -1,0 +1,8 @@
+AREA=Nomina
+RESPONSABLE=Diego Campos
+ipsync=172.16.18.12
+cuenta=bk27
+home=/home/bk27
+ultimoreg=2017-09-02
+hash=8af4d724dad20fb8a5aa98d19382fcab
+ultimaip=

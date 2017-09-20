@@ -1,0 +1,8 @@
+AREA=Seleccion - TH
+RESPONSABLE=Yisel Valdez
+ipsync=172.16.18.12
+cuenta=bk28
+home=/home/bk28
+ultimoreg=2017-09-01
+hash=948abbe6ddeb131032c7a793a999900e
+ultimaip=

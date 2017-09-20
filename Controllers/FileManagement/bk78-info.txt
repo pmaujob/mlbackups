@@ -1,0 +1,8 @@
+AREA=SubGerente Ibague
+RESPONSABLE=Alberth Barreto
+ipsync=172.16.18.12
+cuenta=bk78
+home=/home/bk78
+ultimoreg=2017-09-02
+hash=afca8ae14b3c79e61d1f7d567257f792
+ultimaip=

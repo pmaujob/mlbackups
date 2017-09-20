@@ -1,0 +1,8 @@
+AREA=Juridico
+RESPONSABLE=Ximena Rojas
+ipsync=172.16.18.12
+cuenta=bk35
+home=/home/bk35
+ultimoreg=2017-08-31
+hash=d0a8ff7b83cda144ffefa475a1c40183
+ultimaip=172.16.10.15

@@ -1,0 +1,8 @@
+AREA=Auditoria
+RESPONSABLE=Cristian Rosero
+ipsync=172.16.18.12
+cuenta=bk119
+home=/home2/bk119
+ultimoreg=2017-09-01
+hash=1335fe09998a855979b4ba1d6fc2cccb
+ultimaip=

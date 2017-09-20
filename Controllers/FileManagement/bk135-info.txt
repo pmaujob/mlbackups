@@ -1,0 +1,8 @@
+AREA=Gerente Guadalupe
+RESPONSABLE=VICTOR RUBIO
+ipsync=172.16.18.12
+cuenta=bk135
+home=/home2/bk135
+ultimoreg=2017-09-02
+hash=0b371afc1b765e25d645ec699b225531
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Dirección Ejecutiva
+RESPONSABLE=Paulo Rivas
+ipsync=172.16.18.12
+cuenta=bk54
+home=/home/bk54
+ultimoreg=2017-08-30
+hash=6aa25a9a1b8c94465301b4342688cad5
+ultimaip=172.16.8.181

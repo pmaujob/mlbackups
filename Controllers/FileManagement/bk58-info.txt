@@ -1,0 +1,8 @@
+AREA=Mercadeo
+RESPONSABLE=Helen Bastidas
+ipsync=172.16.18.12
+cuenta=bk58
+home=/home/bk58
+ultimoreg=2017-09-02
+hash=149ec345a668223bc897a24638243ca3
+ultimaip=

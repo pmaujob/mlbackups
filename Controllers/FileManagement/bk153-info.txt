@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Alexandra A
+ipsync=172.16.18.12
+cuenta=bk153
+home=/home2/bk153
+ultimoreg=2017-09-02
+hash=a3a44354cfe3b8c4ffe8b7291ff38ef3
+ultimaip=

@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Camilo Hidalgo
+ipsync=172.16.18.12
+cuenta=bk57
+home=/home/bk57
+ultimoreg=2017-08-31
+hash=b7d76063bbe4f0480cbeeafe76859b65
+ultimaip=172.16.27.15

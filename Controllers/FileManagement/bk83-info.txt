@@ -1,0 +1,8 @@
+AREA=Gerente Rovira
+RESPONSABLE=Carlos Barreto
+ipsync=172.16.18.12
+cuenta=bk83
+home=/home/bk83
+ultimoreg=2017-09-02
+hash=19e244dc377dfc4683a2831eb3e64075
+ultimaip=

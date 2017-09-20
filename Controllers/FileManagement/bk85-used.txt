@@ -1,0 +1,4 @@
+14M	/home/bk85//home/bk85/GerenteGuamo_Klynsmann
+264K	/home/bk85//home/bk85/opt
+15M	/home/bk85//home/bk85
+15M	total

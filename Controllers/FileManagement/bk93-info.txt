@@ -1,0 +1,8 @@
+AREA=Infraestructura
+RESPONSABLE=Alberto Perez
+ipsync=172.16.18.12
+cuenta=bk93
+home=/home/bk93
+ultimoreg=2017-09-02
+hash=28c45a9ed90b3ed9ed7c7ed024b51f3f
+ultimaip=

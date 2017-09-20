@@ -1,0 +1,4 @@
+85M	/home2/bk159//home2/bk159/opt
+61G	/home2/bk159//home2/bk159/JL
+61G	/home2/bk159//home2/bk159
+61G	total

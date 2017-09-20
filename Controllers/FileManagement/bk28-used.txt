@@ -1,0 +1,4 @@
+23G	/home/bk28//home/bk28/YISEL VALDES SOLARTE
+300K	/home/bk28//home/bk28/opt
+23G	/home/bk28//home/bk28
+23G	total

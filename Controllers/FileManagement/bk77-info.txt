@@ -1,0 +1,8 @@
+AREA=Comercial
+RESPONSABLE=Yudi Mosquera
+ipsync=172.16.18.12
+cuenta=bk77
+home=/home/bk77
+ultimoreg=2017-09-02
+hash=8dd3d5335893915810799230c81a1b7f
+ultimaip=

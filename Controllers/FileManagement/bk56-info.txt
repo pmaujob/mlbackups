@@ -1,0 +1,8 @@
+AREA=Tesoreria
+RESPONSABLE=Monica Arturo
+ipsync=172.16.18.12
+cuenta=bk56
+home=/home/bk56
+ultimoreg=2017-09-01
+hash=b0c380055244d7c4f6f4f03b9ffcf343
+ultimaip=

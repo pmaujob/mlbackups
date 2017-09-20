@@ -1,0 +1,5 @@
+4.2G	/home2/bk157//home2/bk157/ASIGNACIONES
+143M	/home2/bk157//home2/bk157/opt
+216M	/home2/bk157//home2/bk157/SIESA
+4.6G	/home2/bk157//home2/bk157
+4.6G	total

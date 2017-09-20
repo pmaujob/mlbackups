@@ -1,0 +1,8 @@
+AREA=Sub Admin
+RESPONSABLE=Mario Chaves
+ipsync=172.16.18.12
+cuenta=bk115
+home=/home2/bk115
+ultimoreg=2017-09-02
+hash=bb5b488c2827daebd29ec67994a36666
+ultimaip=

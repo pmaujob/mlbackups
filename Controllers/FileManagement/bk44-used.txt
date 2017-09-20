@@ -1,0 +1,4 @@
+54G	/home/bk44//home/bk44/Datos
+300K	/home/bk44//home/bk44/opt
+54G	/home/bk44//home/bk44
+54G	total

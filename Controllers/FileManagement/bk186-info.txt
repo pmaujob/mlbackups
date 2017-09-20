@@ -1,0 +1,8 @@
+AREA=Seguridad y salud en el trabajo - th
+RESPONSABLE=Andrea Salazar
+ipsync=172.16.18.12
+cuenta=bk186
+home=/home2/bk186
+ultimoreg=2017-09-01
+hash=d943e26baa2b8733d89a146ae8b9bed6
+ultimaip=

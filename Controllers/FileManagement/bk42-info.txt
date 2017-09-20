@@ -1,0 +1,8 @@
+AREA=Riesgos
+RESPONSABLE=Vanessa Meneses
+ipsync=172.16.18.12
+cuenta=bk42
+home=/home/bk42
+ultimoreg=2017-09-01
+hash=fc12b1eafa878cf9d2886bc0be3e8216
+ultimaip=

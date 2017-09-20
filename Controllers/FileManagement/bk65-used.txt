@@ -1,0 +1,4 @@
+44M	/home/bk65//home/bk65/ProfesionalSistemas_Cesar
+148K	/home/bk65//home/bk65/opt
+44M	/home/bk65//home/bk65
+44M	total

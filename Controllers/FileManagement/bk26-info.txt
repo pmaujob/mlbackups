@@ -1,0 +1,8 @@
+AREA=Dirección Talento Humano
+RESPONSABLE=Zulma Morales
+ipsync=172.16.18.12
+cuenta=bk26
+home=/home/bk26
+ultimoreg=2017-08-29
+hash=35933564e9106c16f3c01e45b3c64460
+ultimaip=172.16.91.100

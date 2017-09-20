@@ -1,0 +1,8 @@
+AREA=Tics
+RESPONSABLE=Hugo Ortiz
+ipsync=172.16.18.12
+cuenta=bk183
+home=/home2/bk183
+ultimoreg=2017-09-02
+hash=aab90c0fb31be3a38ec0639e8bd01467
+ultimaip=

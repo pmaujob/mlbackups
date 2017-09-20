@@ -1,0 +1,4 @@
+2.2M	/home2/bk109//home2/bk109/opt
+55G	/home2/bk109//home2/bk109/Auditoria Jairo Munoz
+55G	/home2/bk109//home2/bk109
+55G	total

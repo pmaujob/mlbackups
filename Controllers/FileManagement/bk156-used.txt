@@ -1,0 +1,4 @@
+312K	/home2/bk156//home2/bk156/opt
+26G	/home2/bk156//home2/bk156/InformacionPrg
+26G	/home2/bk156//home2/bk156
+26G	total

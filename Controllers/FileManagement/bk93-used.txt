@@ -1,0 +1,4 @@
+15G	/home/bk93//home/bk93/Respaldo
+240K	/home/bk93//home/bk93/opt
+15G	/home/bk93//home/bk93
+15G	total

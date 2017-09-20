@@ -1,0 +1,8 @@
+AREA=Juridico
+RESPONSABLE=Fernando Herrera
+ipsync=172.16.18.12
+cuenta=bk31
+home=/home/bk31
+ultimoreg=2017-08-31
+hash=6f0b13b031c6cdee332d480df1bec6ca
+ultimaip=172.16.10.11
