@@ -36,7 +36,11 @@ class MConsultUsers {
                 . "ud.responsable,"//3
                 . "ud.ipsync,"//4
                 . "ud.ultimo_registro,"//5
-                . "ud.ultima_ip "//6
+                . "ud.ultima_ip,"//6
+                . "(SELECT COUNT(d.id_dir) "
+                . "FROM eudatos AS ud "
+                . "INNER JOIN directorios AS d ON ud.id_eudatos = d.id_eudatos "
+                . "WHERE ud.id_eudatos = $idEudatos) "//7
                 . "FROM eudatos AS ud "
                 . "INNER JOIN eusuarios AS us ON ud.id_eusuario = us.id_eusuario "
                 . "WHERE ud.id_eudatos = $idEudatos;";

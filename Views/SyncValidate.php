@@ -14,7 +14,7 @@
                 <div class="container-fluid">
                     <div class="col s12 m8 l12 center-align">
                         <div class="row">
-                            <div class="col s12 m12 l12 center-align"><div>Haga click en la lupa para ir al formulario de búsqueda</div></div>
+                            <div class="col s12 m12 l12 center-align"><span class="lbl-style">Haga click en la lupa para ir al formulario de búsqueda</span></div>
                             <br>
                             <br>
                         </div>
@@ -22,12 +22,17 @@
                             <div class="col s12 m12 l12">
                                 <div class="row">
                                     <a class="waves-effect waves-light" href="#!" onclick="openModal();">
-                                        <img src="../Views/images/view.png" class="icon-search">
+                                        <img id="iconSearch" src="../Views/images/view.png" class="icon-search">
                                     </a>
                                 </div>
                             </div>
                         </div>
-                        <div id="userData" class="row">
+                    </div>
+                    <div class="row">
+                        <div class="col s12 m3 l3">
+                            <!-- Espacio para centrar la tabla -->
+                        </div>
+                        <div id="userData" class="col s12 m6 l6 center-align">
 
                         </div>
                     </div>
@@ -60,6 +65,21 @@
                     </div>
                 </div>
             </div>
+
+            <div id="modalDirs" class="modal modal-fixed-footer">
+                <div class="modal-content">
+                    <h4>Lista de Directorios</h4>
+                    <div class="row">
+                        <ul id="dirList" class="collection" style="display: none;">
+
+                        </ul>
+                    </div>               
+                </div>
+                <div class="modal-footer">
+                    <a href="#!" class="modal-action modal-close waves-effect waves-green btn-flat ">Aceptar</a>
+                </div>
+            </div>
+
         </div>
     </body>
 </html>

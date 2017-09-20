@@ -6,23 +6,13 @@ $pRoot = $_SESSION['pRoot'];
 
 require_once $pRoot . '/Class/FileManagement/DataFiles.php';
 require_once $pRoot . '/Models/FileManagement/MLoadDataFiles.php';
-require_once $pRoot . '/Libraries/ConvertFormats.php';
 
 class CLoadDataFiles {
 
     private $users = array();
-    private $usersToJson;
 
     private function getUsers() {
         return $this->users;
-    }
-
-    function getUsersToJson() {
-        return $this->usersToJson;
-    }
-
-    function setUsersToJson($usersToJson) {
-        $this->usersToJson = $usersToJson;
     }
 
     public function setDataFilePasswd() {
@@ -68,24 +58,16 @@ class CLoadDataFiles {
     }
 
     public function nextData() {
-
-        $usersJson = array();
         
         foreach ($this->getUsers() as $row) {
 
             $dataFiles = new DataFiles();
             $dataFiles->setData($row);
-            $aux = array("user" => $row);
-            $usersJson[] = $aux;
             
             echo $row."<br>";
 
             $this->recordData($dataFiles->getArea(), $dataFiles->getResponsable(), $dataFiles->getIpsync(), $dataFiles->getAccount(), $dataFiles->getDirectory(), $dataFiles->getLastRecord(), $dataFiles->getHash(), $dataFiles->getLastIp(), $dataFiles->getDirectoriesJson(), $dataFiles->getDirConf(), $dataFiles->getFindInfo(), $dataFiles->getFindDirConf(), $dataFiles->getFindUsed());
         }
-        
-        $this->setUsersToJson(ConvertFormats::convertToJsonItems($usersJson));
-        
-        echo $this->getUsersToJson();
         
     }
 
@@ -94,4 +76,5 @@ class CLoadDataFiles {
 $loadDataFiles = new CLoadDataFiles();
 $loadDataFiles->setDataFilePasswd();
 $loadDataFiles->nextData();
+
 ?>

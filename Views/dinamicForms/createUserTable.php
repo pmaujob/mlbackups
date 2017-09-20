@@ -8,10 +8,9 @@ $userId = $_POST['userId'];
 require_once $pRoot . '/Models/FileManagement/MConsultUsers.php';
 
 $user = MConsultUsers::getEeudatos($userId);
-$dirs = MConsultUsers::getDirectorios($userId);
-
+$dirsCount = 0;
 ?>
-<table>
+<table class="bordered">
     <?php
     foreach ($user as $row) {
         ?>
@@ -19,53 +18,61 @@ $dirs = MConsultUsers::getDirectorios($userId);
             <th>
                 Responsable:&nbsp;
             </th>
-            <th>
+            <td>
                 <?php echo $row[3]; ?>
-            </th>
+            </td>
         </tr>
         <tr>
             <th>
                 Cuenta:&nbsp;
             </th>
-            <th>
+            <td>
                 <?php echo $row[2]; ?>
-            </th>
+            </td>
         </tr>
         <tr>
             <th>
                 IP:&nbsp;
             </th>
-            <th>
+            <td>
                 <?php echo $row[4]; ?>
-            </th>
+            </td>
         </tr>
         <tr>
             <th>
                 Último Registro:&nbsp;
             </th>
-            <th>
+            <td>
                 <?php echo $row[5]; ?>
-            </th>
+            </td>
         </tr>
         <tr>
             <th>
                 Última IP:&nbsp;
             </th>
-            <th>
+            <td>
                 <?php echo $row[6]; ?>
-            </th>
+            </td>
         </tr>
         <?php
+        $dirsCount = $row[7];
     }
     ?>
 </table>
-<span>Directorios:</span>
-<ul>
-    <?php
-    foreach ($dirs as $dir) {
-        ?>
-        <li><?php echo $dir[1]; ?></li>
-        <?php
-    }
+<br>
+<?php
+if ($dirsCount == 0) {
     ?>
-</ul>
+    <h5>No se encontraron directorios registrados.</h5>
+    <?php
+} else {
+    ?>
+    <a class="waves-effect waves-light btn" style="background: #3991FE;" onclick="openDirectories('<?php echo $userId; ?>');">
+        <i class="material-icons left">folder</i>
+        Directorios
+    </a>
+    <?php
+}
+
+?>
+

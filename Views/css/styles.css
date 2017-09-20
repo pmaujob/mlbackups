@@ -22,6 +22,16 @@
 .icon-search{
     width: 70%; 
     height: 70%;
+    transition: width 0.5s, height 0.5s;
+    -webkit-transition: width 0.5s, height 0.5s;
+    -o-transition: width 0.5s, height 0.5s;
+    -ms-transition: width 0.5s, height 0.5s;
+    -moz-transition: width 0.5s, height 0.5s;
+}
+
+.lbl-style{
+    color: #666F7B;    
+    transition: width 0.5s, height 0.5s;
 }
 
 /* Cambiar Color de input materialize*/
@@ -73,4 +83,6 @@ i.active {
 .ver-mas-button {
     color: #3991FE;
 }
+
+
 
