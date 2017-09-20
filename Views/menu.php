@@ -35,7 +35,7 @@ $sess = new SessionVars();
                     </a>
                     <ul class='dropdown-content' id="dropdown1">
                         <li><a href="#!" style="color: #03A9F4;"><i class="material-icons">vpn_key</i>Cambiar Contraseña</a></li>
-                        <li><a href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] . '/Backups/Controllers/Admin/CLogout.php' ?>"><i class="material-icons">exit_to_app</i>Cerrar Sesión</a></li>
+                        <li><a href="<?php echo 'http://' . $_SERVER['SERVER_NAME'] . '/Scorpio/Controllers/Admin/CLogout.php' ?>"><i class="material-icons">exit_to_app</i>Cerrar Sesión</a></li>
                     </ul>
                 </div>
             </div>

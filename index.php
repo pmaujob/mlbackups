@@ -2,7 +2,7 @@
 @session_start();
 
 $_SESSION['pRoot'] = dirname(__FILE__);
-$_SESSION['pRootHtml'] = 'http://' . $_SERVER['SERVER_NAME'] . '/Backups';
+$_SESSION['pRootHtml'] = 'http://' . $_SERVER['SERVER_NAME'] . '/Scorpio';
 $pRoot = $_SESSION['pRoot'];
 $pRootHtml = $_SESSION['pRootHtml'];
 
