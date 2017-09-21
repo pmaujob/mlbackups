@@ -19,6 +19,19 @@ $sess = new SessionVars();
         <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     </head>
     <body>
+
+        <div class="fixed-action-btn">
+            <a class="btn-floating btn-large" style="">
+                <i class="large material-icons">apps</i>
+            </a>
+            <ul>
+                <li><a class="btn-floating red"><i class="material-icons">insert_chart</i></a></li>
+                <li><a class="btn-floating yellow darken-1"><i class="material-icons">format_quote</i></a></li>
+                <li><a class="btn-floating green"><i class="material-icons">publish</i></a></li>
+                <li><a class="btn-floating blue"><i class="material-icons">attach_file</i></a></li>
+            </ul>
+        </div>
+
         <div class="row">
             <div class="head-usuario col s12 m12 l12">
                 <div class="col s6 m1 l1">
