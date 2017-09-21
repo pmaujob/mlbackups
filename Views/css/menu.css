@@ -120,6 +120,12 @@
     margin-top: 4px;
 }
 
+.apps i{
+    color: #BDBDBD;
+    width: 25%;
+    height: 25%;
+}
+
 .icon-menu{
     margin-top: 14px;
 }

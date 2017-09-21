@@ -1,6 +1,5 @@
 <?php
 @session_start();
-$_SESSION['pRootHtml'] = 'http://' . $_SERVER['SERVER_NAME'] . '/Backups';
 $pRootHtml = $_SESSION['pRootHtml'];
 
 $userId = $_POST['userId'];
