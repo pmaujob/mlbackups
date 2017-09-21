@@ -17,7 +17,7 @@ if (!$sess->varExist('user')) {
     <html>
         <head>
             <meta charset="UTF-8">
-            <title>Backups</title>
+            <title>Scorpio</title>
             <?php include_once $pRoot . '/Views/header.php'; ?>
             <script type="text/javascript" src="Views/js/login.js"></script>
             <link rel="stylesheet" type="text/css" href="Views/css/stylesLogin.css">
@@ -48,7 +48,7 @@ if (!$sess->varExist('user')) {
                                     <div class="img">
                                         <img src="Views/images/logoUser.png">
                                     </div>
-                                    <h3 class="name-aplication">MlBackup</h3>
+                                    <h3 class="name-aplication">Scorpio</h3>
                                 </div>
                                 <div class="input-field col s12">
                                     <input id="in_user" type="text" class="validate">
