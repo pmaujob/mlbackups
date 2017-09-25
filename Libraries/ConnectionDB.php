@@ -25,10 +25,9 @@ class ConnectionDB {
         $this->pass = 'bpid2017';
         $this->host = '192.168.1.111';
         $this->db = 'mlbackup';
-        
     }
 
-    public function connect($manager) {
+    private function connect($manager) {
 
         if ($manager === "MS")
             $this->connectMySQL();
@@ -45,8 +44,9 @@ class ConnectionDB {
         }
     }
 
-    public function consult($sql) {
+    public function consult($manager, $sql) {
 
+        $this->connect($manager);        
         $rt = null;
 
         try {
@@ -54,33 +54,37 @@ class ConnectionDB {
             $query = $this->pdo->prepare($sql);
             $query->execute();
             $rt = $query;
-            
         } catch (PDOException $e) {
-            return $e->getMessage();
+            return $e->getMessage() . ", " . $sql;
         }
+        
+        $this->closeConnection();
 
         return $rt;
     }
 
-    public function afect($sql) {
+    public function afect($manager,$sql) {
 
+        $this->connect($manager);    
         $res = 0;
 
         try {
 
             $this->pdo->exec($sql);
             $res = 1;
-            
         } catch (PDOException $e) {
             return $e->getMessage();
         }
 
+        $this->closeConnection();
+        
         return $res;
     }
 
-    public function closeConnection() {
+    private function closeConnection() {
 
         $this->pdo = null;
+        
     }
 
 }
