@@ -32,9 +32,9 @@ class ConnectionDB {
 
     private function connect($manager) {
 
-        if ($manager === "MS")
+        if ($manager === $this->MNG_MS)
             $this->connectMySQL();
-        else if ($manager === "PG")
+        else if ($manager === $this->MNG_PG)
             $this->connectPostgreSQL();
 
         try {
