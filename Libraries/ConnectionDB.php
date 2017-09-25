@@ -8,6 +8,9 @@ class ConnectionDB {
     private $host;
     private $db;
     private $pdo;
+    
+    public static $MNG_PG = "PG";
+    public static $MNG_MS = "MS";
 
     private function connectMySQL() {
 
